@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CreatingMinFile_BundleFile.props" />
+</Project>

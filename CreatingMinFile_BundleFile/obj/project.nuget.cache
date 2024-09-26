@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDTrDFwFT/wJ0nCUyl7yss8FqawxEUa4FZEys2l4PdoEiBLD5Y8olUNMrcSHMQ+1lsYoVgMNHTuMr18vSsc3kw==",
+  "success": true,
+  "projectFilePath": "D:\\CreatingMinFile_BundleFile\\CreatingMinFile_BundleFile\\CreatingMinFile_BundleFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mills\\.nuget\\packages\\buildbundlerminifier\\3.2.447\\buildbundlerminifier.3.2.447.nupkg.sha512"
+  ],
+  "logs": []
+}
